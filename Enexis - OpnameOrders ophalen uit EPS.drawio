@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T09:24:39.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="nfKKku7Z5cltKOfdlAU4" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T09:26:37.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="Yeych2gsDzD6gCSD9KoS" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1814" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2YasccpX_roE143owSL-105" value="Database-profiel met &lt;br&gt;identifier,&lt;br&gt;database, &lt;br&gt;schema en &lt;br&gt;warehouse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G2YasccpX_roE143owSL-104" vertex="1" connectable="0">
+        <mxCell id="G2YasccpX_roE143owSL-105" value="Database-profiel met &lt;br&gt;identifier RL_CDWH_T_APP_KM_BUDI,&lt;br&gt;database DB_CDWH_T, &lt;br&gt;schema CDWH_5_INF_RISK_KM_BUDI en &lt;br&gt;warehouse&amp;nbsp;WH_CDWH_T_REPORTING" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G2YasccpX_roE143owSL-104" vertex="1" connectable="0">
           <mxGeometry x="-0.0235" y="-2" relative="1" as="geometry">
             <mxPoint x="17" y="1" as="offset" />
           </mxGeometry>
